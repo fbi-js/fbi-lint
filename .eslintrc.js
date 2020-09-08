@@ -1,3 +1,3 @@
 module.exports = {
-  ...require('./src/eslint.js'),
+  ...require('./lib/eslint.js'),
 }
