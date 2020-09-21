@@ -1,6 +1,6 @@
 # fbi-lint
 
-一个包含 prettier，eslint 的配置文件集合
+一个包含 prettier，eslint,stylelint 的配置文件集合
 
 ## 使用
 
@@ -28,6 +28,15 @@ module.exports = {
     // 你的规则
   },
   // 你的配置项
+}
+```
+
+在`.stylelintrc.js`
+
+```js
+const lint = require('fbi-lint').stylelint
+module.exports = {
+  ...lint,
 }
 ```
 
