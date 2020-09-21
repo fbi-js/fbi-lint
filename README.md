@@ -17,6 +17,7 @@ module.exports = {
 在 `.eslintrc.js`
 
 ```javascript
+// node  require('fbi-lint').nodeEslint
 // js/ts require('fbi-lint').eslint
 // vue  require('fbi-lint').vueEslint
 // react require('fbi-lint').reactEslint
