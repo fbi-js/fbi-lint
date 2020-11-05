@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/fbi-js/fbi-lint/compare/v0.0.5...v0.0.6) (2020-11-05)
+
+### Bug Fixes
+
+- 升级 react-app config ([2ad63f2](https://github.com/fbi-js/fbi-lint/commit/2ad63f2f0d21ed3316b4857d7177cfa7ef48e9b8))
+
 ### [0.0.5](https://github.com/fbi-js/fbi-lint/compare/v0.0.4...v0.0.5) (2020-11-05)
 
 ### Bug Fixes
