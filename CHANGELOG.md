@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/fbi-js/fbi-lint/compare/v0.0.4...v0.0.5) (2020-11-05)
+
+### Bug Fixes
+
+- 移除 console ([c139636](https://github.com/fbi-js/fbi-lint/commit/c1396367ce449dc1f310bfce557c1eed02138de7))
+
 ### [0.0.4](https://github.com/fbi-js/fbi-lint/compare/v0.0.3...v0.0.4) (2020-09-21)
 
 ### Features
